@@ -13,12 +13,12 @@ $(document).ready(function () {
 
 
 
-	$('.main-slider > .slider-wrap').slick({
-		autoplay: true,
-		autoplaySpeed: 3000,
-		arrows: false,
-		dots: true,
-	});
+//	$('.main-slider > .slider-wrap').slick({
+//		autoplay: true,
+//		autoplaySpeed: 3000,
+//		arrows: false,
+//		dots: true,
+//	});
 
 	$('.category-wrap>.category-slider > .category').slick({
 		slidesToShow: 7,
